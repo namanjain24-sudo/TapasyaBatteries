@@ -22,7 +22,7 @@ export default function Navbar() {
               <img 
                 src="/image copy 8.png" 
                 alt="Tapasya Enterprises Logo" 
-                className="w-40 h-30 rounded-lg object-contain"
+                className="w-40 h-32 rounded-lg object-contain"
               />
             </a>
 

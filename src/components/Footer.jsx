@@ -47,7 +47,7 @@ const Footer = () => {
                 <img 
                   src="/image copy 8.png" 
                   alt="Tapasya Enterprises Logo" 
-                  className="w-50 h-50 object-contain"
+                  className="w-35 h-30 object-contain"
                 />
               </div>
             </div>
