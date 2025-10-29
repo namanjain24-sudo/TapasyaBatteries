@@ -19,12 +19,11 @@ export default function Navbar() {
           <div className="flex justify-between items-center h-16">
             {/* Logo and Company Name - Mobile */}
             <a href="/" className="flex items-center gap-2 group">
-              <div className="w-8 h-8 bg-gradient-to-br from-slate-900 to-slate-700 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-2xl">🔋</span>
-              </div>
-              <span className="font-semibold text-slate-900 group-hover:text-slate-700 transition-colors text-sm">
-                Tapasya Enterprises
-              </span>
+              <img 
+                src="/image copy 8.png" 
+                alt="Tapasya Enterprises Logo" 
+                className="w-40 h-30 rounded-lg object-contain"
+              />
             </a>
 
             {/* Desktop Navigation */}

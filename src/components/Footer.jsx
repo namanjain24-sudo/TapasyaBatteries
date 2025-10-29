@@ -43,10 +43,13 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-teal-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">🔋</span>
+              <div className="bg-white p-2 rounded-lg">
+                <img 
+                  src="/image copy 8.png" 
+                  alt="Tapasya Enterprises Logo" 
+                  className="w-50 h-50 object-contain"
+                />
               </div>
-              <span className="font-bold text-xl">Tapasya Enterprises</span>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
               Your trusted partner for comprehensive power backup solutions. 
