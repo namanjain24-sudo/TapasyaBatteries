@@ -101,7 +101,7 @@ export default function HeroSection() {
           <div className="absolute right-0 top-2/6 transform -translate-y-1/2 w-3/7 hidden lg:block">
             <img 
               src="/image.png" 
-              alt="Power Solutions" 
+              alt="Car Battery and Power Solutions" 
               className="max-w-none h-auto scale-15 lg:scale-100 xl:scale-60"
             />
           </div>
@@ -112,7 +112,7 @@ export default function HeroSection() {
       <div className="absolute -bottom-9 left-0 right-0 w-full h-auto hidden lg:block">
         <img 
           src="/image copy.png" 
-          alt="Bottom Border" 
+          alt="Battery Solutions" 
           className="w-full h-auto object-cover"
         />
       </div>

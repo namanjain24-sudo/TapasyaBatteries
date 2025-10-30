@@ -61,8 +61,7 @@ export function AboutSection() {
               <p className="text-xs md:text-sm text-slate-700 leading-relaxed font-light">
                 Over the years, we have proudly served thousands of homes and businesses, offering a wide range of
                 batteries, inverters, UPS systems, and power backup solutions from all leading brands. Our long-standing
-                commitment to quality, transparency, and customer trust has made us one of the most preferred dealers in
-                Delhi.
+                commitment to quality, transparency, and customer trust has made us one of the most preferred <strong>car battery dealers in Delhi</strong> and providers of <strong>automotive battery solutions</strong>.
               </p>
             </div>
 

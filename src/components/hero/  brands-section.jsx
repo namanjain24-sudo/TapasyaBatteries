@@ -43,7 +43,7 @@ export function BrandsSection() {
             Trusted Brands We Represent
           </h2>
           <p className="text-sm md:text-base text-blue-100 max-w-2xl mx-auto font-light leading-relaxed">
-            Authorized dealer of India's most trusted power solution brands
+            Authorized dealer of India's most trusted power solution brands for <strong>car batteries</strong>, <strong>inverter batteries</strong>, and <strong>automotive battery solutions</strong>
           </p>
         </div>
 
@@ -63,7 +63,7 @@ export function BrandsSection() {
                     <div className="h-32 md:h-40 lg:h-48 w-full rounded-md bg-gray-50 flex items-center justify-center mb-4 md:mb-6 group-hover:bg-gray-100 transition-colors duration-300 p-4">
                       <img
                         src={brand.logo || "/placeholder.svg"}
-                        alt={brand.name}
+                        alt={`${brand.name} Battery Products`}
                         className="max-h-full max-w-full object-contain"
                       />
                     </div>
@@ -95,7 +95,7 @@ export function BrandsSection() {
                         <div className="h-32 md:h-40 lg:h-48 w-full rounded-md bg-gray-50 flex items-center justify-center mb-4 md:mb-6 group-hover:bg-gray-100 transition-colors duration-300 p-4">
                           <img
                             src={brand.logo || "/placeholder.svg"}
-                            alt={brand.name}
+                            alt={`${brand.name} Battery Products`}
                             className="max-h-full max-w-full object-contain"
                           />
                         </div>
@@ -152,7 +152,7 @@ export function BrandsSection() {
               All products come with{" "}
               <span className="font-medium text-white">manufacturer warranty</span> and comprehensive{" "}
               <span className="font-medium text-white">after-sales support</span>. Serving thousands of homes and
-              businesses with trusted solutions since 1998.
+              businesses with trusted <strong>car battery</strong> and <strong>automotive battery solutions</strong> since 1998.
             </p>
           </div>
         </div>

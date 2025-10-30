@@ -1,16 +1,90 @@
-# React + Vite
+# Tapasya Batteries - Power Solutions Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Tapasya Batteries, your trusted partner for all battery and power backup solutions in Delhi. This website showcases our extensive range of products from leading brands like Luminous, Su-Kam, Exide, Microtek, Amaron, and Okaya.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design for all devices
+- Detailed product information
+- Brand partnerships display
+- Contact information and location
+- SEO optimized for better search rankings
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js with Vite
+- Tailwind CSS for styling
+- React Router for navigation
+- Lucide React for icons
 
-## Expanding the ESLint configuration
+## SEO Optimizations Implemented
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Meta Tags**:
+   - Title tags optimized with primary keywords
+   - Description tags with compelling CTAs
+   - Keyword tags with relevant terms
+   - Open Graph and Twitter cards for social sharing
+
+2. **Structured Data**:
+   - LocalBusiness schema markup
+   - Product and service information
+   - Business contact details
+
+3. **Content Optimization**:
+   - Keyword-rich headings and content
+   - Semantic HTML structure
+   - Internal linking between pages
+
+4. **Technical SEO**:
+   - Sitemap.xml for better crawling
+   - Robots.txt for crawler guidance
+   - Fast loading speeds with Vite
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (version 14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+### Building for Production
+
+```bash
+npm run build
+```
+
+This will create a production-ready build in the `dist` folder.
+
+## Deployment
+
+The site is configured for easy deployment on platforms like:
+- Vercel
+- Netlify
+- GitHub Pages
+
+Ensure to update the canonical URL and structured data with your production domain.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
